@@ -1,6 +1,12 @@
 
 <div align="center"> 
-![sakura-smaller](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/ca55026d-426b-48bb-9de8-465093c1f814)<h1>Hey I'm Pumpkin!</h1>![sakura-smaller](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/ca55026d-426b-48bb-9de8-465093c1f814)
+  
+  ![sakura-smaller](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/ca55026d-426b-48bb-9de8-465093c1f814)
+  
+<h1>Hey I'm Pumpkin!</h1>
+
+![sakura-smaller](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/ca55026d-426b-48bb-9de8-465093c1f814)
+
 </div>
 
 
