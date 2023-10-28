@@ -19,5 +19,5 @@
 
 <div align="center">
 
- <a href=" ![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/0a3fc42e-4867-4d41-b5a6-9ebcb9efa1b6)"><img src="![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)" alt="music playlist screenshot"></a>
+ <a href=" https://www.youtube.com/watch?v=fYj4teaaf8s&list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN "><img src="![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)" alt="music playlist screenshot"></a>
 </div>
