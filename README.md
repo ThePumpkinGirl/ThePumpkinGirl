@@ -16,5 +16,9 @@
 
 <div align="center">
 
- <a href="https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN">Music</a>
+ <a href="https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN">
+   
+ ![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/64bd4abd-9ae7-4259-b7a3-5df2bac3c62c)
+
+ </a>
 </div>
