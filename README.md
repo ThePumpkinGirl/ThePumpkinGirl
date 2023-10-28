@@ -13,7 +13,11 @@
 </div>
 
 <p align="right">
-  hey!
+Student✏️
+Coder🖥️
+Gamer🎮
+
+  
 </p>
 
 
