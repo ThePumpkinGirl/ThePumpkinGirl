@@ -63,7 +63,7 @@
 
 </a>
 
-<img src="https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/4a77bb15-8fe1-4b3b-b6ce-95af2422459d" width="50%" height="50%">
+<img src="https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/4a77bb15-8fe1-4b3b-b6ce-95af2422459d" width="200px" height="">
 
 </div>
 
