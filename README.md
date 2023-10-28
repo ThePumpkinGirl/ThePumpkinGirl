@@ -15,10 +15,9 @@
 
  https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo
 
-[<img src="![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/b0c972e7-a031-48b4-9d24-3b590ebc9b13)" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55](https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo)https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo")
 
+<div align="center">
 
-[![Playlist]
-(![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/b6619573-5729-4639-8c27-baa48790cea6)
-)] // Thumbnail
-([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo)https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo "Playlist")    // Video Link
+ <a href="[default.asp](https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo)https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo"><img src="![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)
+" alt="" style="width:200px;height:500px;"></a>
+</div>
