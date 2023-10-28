@@ -1,6 +1,14 @@
-### Hi there 👋
-
 ![sailor-m-smaller](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/6cb1900a-3a8f-4068-9226-8aa9269c2727)
+![sakura-smaller](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/ca55026d-426b-48bb-9de8-465093c1f814)
+
+
+
+
+
+
+
+
+
 
 <!--
 **ThePumpkinGirl/ThePumpkinGirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
