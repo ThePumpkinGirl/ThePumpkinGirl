@@ -16,5 +16,5 @@
 
 <div align="center">
 
- <a href="https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN"><img src="![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)" alt="music playlist screenshot"></a>
+ <a href="https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN"><img src="![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)" alt="![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)"></a>
 </div>
