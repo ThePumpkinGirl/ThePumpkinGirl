@@ -14,10 +14,9 @@
 
 
  https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo
-[music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)
+![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/42e7e8d0-bda7-41ba-a934-88724007d75b)
 
 <div align="center">
 
- <a href=" ![youtube](https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo)https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo"><img src="!
-" alt="music playlist screenshot"></a>
+ <a href=" ![youtube](https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo)https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo"><img src="" alt="music playlist screenshot"></a>
 </div>
