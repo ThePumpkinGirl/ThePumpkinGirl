@@ -14,14 +14,4 @@
 
 
 
-<div align="center">
 
-  
- [![Music playlist](![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/5a1ebaeb-3944-4e56-8fd7-53cc0d10fc40)) ] (![music] (https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN))
-
-  
- <a href="https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN">
-  
-
- </a>
-</div>
