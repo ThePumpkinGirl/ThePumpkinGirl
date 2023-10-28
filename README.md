@@ -53,6 +53,7 @@
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 </div>
+
 <div align="center">
 <!--- Code Stuff--->
 🎶🎶🎶
@@ -64,6 +65,7 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 </a>
+
 </div>
 
 
