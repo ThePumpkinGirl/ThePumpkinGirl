@@ -3,10 +3,7 @@
   
   ![pumpkin-cute](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/2efda30b-63d9-4df6-be4c-9b043c925fce) 
   
-```diff
-@@ Hey I'm Pumpkin! @@
-```
-
+<h3>Hey, I'm Pumpkin!</h3>
 </div>
 
 <div align="center"> 
