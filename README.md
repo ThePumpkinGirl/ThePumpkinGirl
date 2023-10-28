@@ -13,8 +13,8 @@
 </div>
 
 <p align="right">
-Student✏️
-Coder🖥️
+Student✏️<br>
+Coder🖥️<br>
 Gamer🎮
 
   
