@@ -57,10 +57,12 @@
 <div align="center">
 <!--- Code Stuff--->
 🎶🎶🎶
-
-<a href="https://www.youtube.com/watch?v=fYj4teaaf8s&list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN">
+<div>
+ <a href="https://www.youtube.com/watch?v=fYj4teaaf8s&list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN">
   <img src="https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/4a77bb15-8fe1-4b3b-b6ce-95af2422459d" width="200px" height=""> 
-</a>
+</a> 
+</div>
+
   
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
