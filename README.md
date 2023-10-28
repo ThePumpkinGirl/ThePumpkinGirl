@@ -13,9 +13,6 @@
 </div>
 
 
- https://music.youtube.com/playlist?list=PLOkawFrrDOI177AGaDRDMDNxS_0AJ6FZN&si=NF5PbGgi96Tu6WQo
-![music-playlist-screenshot](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/0a3fc42e-4867-4d41-b5a6-9ebcb9efa1b6)
-
 
 <div align="center">
 
