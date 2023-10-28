@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="https://giphy.com/gifs/l0HlMlMVBuNhDqkF2" target="blank"><img align="center" src="https://giphy.com/gifs/l0HlMlMVBuNhDqkF2" height="100" /></a>
+
+![sailor-m-smaller](https://github.com/ThePumpkinGirl/ThePumpkinGirl/assets/144256815/6cb1900a-3a8f-4068-9226-8aa9269c2727)
 
 <!--
 **ThePumpkinGirl/ThePumpkinGirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
